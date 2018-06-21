@@ -1,4 +1,4 @@
-package com.chrissetiana.reportapp;
+package com.chrissetiana.reportcard;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

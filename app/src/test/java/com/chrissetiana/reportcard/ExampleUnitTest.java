@@ -1,4 +1,4 @@
-package com.chrissetiana.reportapp;
+package com.chrissetiana.reportcard;
 
 import org.junit.Test;
 
